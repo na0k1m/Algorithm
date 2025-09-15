@@ -1,6 +1,6 @@
 # Silver 5
 # 수들의 합 5
-# https://www.acmicpc.net/problem/11659
+# https://www.acmicpc.net/problem/2018
 
 import sys
 input = sys.stdin.readline

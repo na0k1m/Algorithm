@@ -1,4 +1,4 @@
-# Gold 5
+# Gold 4
 # 좋다
 # https://www.acmicpc.net/problem/1253
 
